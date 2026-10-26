@@ -6,9 +6,7 @@ et Apprentissage (MADA) – Université Mohammed V, Rabat.
 ## Projets
 
 ### 🐍 Python & Data Processing
-- TD3 – Parsing et analyse des projets de dessalement (Maroc)
-- TD4 – Moteur de scoring RSU (Registre Social Unifié)
-- EDA – Developer Survey (AI, Salary, Experience)
+ – Parsing et analyse des projets de dessalement (Maroc)
+ – Moteur de scoring RSU (Registre Social Unifié)
+ – Developer Survey (AI, Salary, Experience)
 
-### 📊 Statistiques avec R
-- Sélection de modèles de régression linéaire (AIC, BIC, Cp de Mallows)
